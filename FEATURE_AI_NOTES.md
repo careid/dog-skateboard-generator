@@ -1,0 +1,1 @@
+Updated App.tsx to show a dog image from placedog.net and added basic styling. The image service provides random dog photos - refresh to see different ones.
